@@ -11,7 +11,4 @@ git push origin --delete dev
 //delete tag remotley :: git push origin --delete v1.7
 
 
-
-<p align="center">
-  <img src="https://www.pngegg.com/ar/png-fijpd" width="350" title="hover text">
-</p>
+![3278747-dc-detective-conan-17352255-857-933](https://user-images.githubusercontent.com/64227793/169647018-3637daa7-34ce-4ff6-801d-38d0c16fd717.jpg)
